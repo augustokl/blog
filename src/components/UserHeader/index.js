@@ -13,7 +13,7 @@ class UserHeader extends React.Component {
       <div className="header" style={{marginTop: '20px'}}>
         {user.name}
       </div>
-    )
+    );
   }
 }
 
